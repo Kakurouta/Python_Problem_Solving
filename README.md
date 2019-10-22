@@ -1,2 +1,2 @@
 # Python_Problem_Solving
-My Python programming problem answers
+Solved Python programming problems
